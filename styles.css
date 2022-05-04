@@ -1,0 +1,26 @@
+body {
+    background-color: black;
+    font-family: roboto;
+}
+
+.post {
+    background: white;
+    width: 600px;
+    margin: auto;
+}
+
+.header {
+    display: flex;
+    padding: 5px;
+}
+
+.icons {
+    font-size: 22px;
+    margin-left: 10px;
+}
+
+.postdown {
+    margin-top: 10px;
+    margin-left: 14px;
+    width: 93%;
+}
